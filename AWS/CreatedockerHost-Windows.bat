@@ -1,0 +1,1 @@
+docker-machine create --driver amazonec2 --amazonec2-instance-type t2.medium  aws-sandbox
