@@ -48,8 +48,8 @@ The purpose of this project is to teach developers some of the basics of devops 
 
 # BREAK
 ## Let’s run our first docker container
-* docker run -d -p 3000 asakaguchi/docker-nodejs-hello-world
-* docker ps
+* ```docker run -d -p 3000 asakaguchi/docker-nodejs-hello-world```
+* ```docker ps```
 
 # Creating your own docker container
 * Dokerfile basics
