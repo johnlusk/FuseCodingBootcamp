@@ -1,0 +1,50 @@
+*** Beatheaven Changelog ***
+
+ 2014.07.23 - version 1.1.2
+ * fixed scroll in cusel
+	beatheaven-parent/js/cusel-min.js
+ * fixed bug in player
+	beatheaven-parent/content-single-album.php
+	beatheaven-parent/js/general.js
+	beatheaven-parent/player-top.php
+ * minor changes
+	beatheaven-parent/content-single.php
+	beatheaven-parent/js/jquery.slider.js
+	beatheaven-parent/style.css
+	beatheaven-parent/js/advanced.js
+	beatheaven-parent/content-single-album.php
+	beatheaven-parent/content-single-date.php
+	beatheaven-parent/content-single-event.php
+	beatheaven-parent/content-single-product.php
+	beatheaven-parent/content-single.php
+	beatheaven-parent/functions.php
+	beatheaven-parent/header.php
+	beatheaven-parent/listing-blog.php
+	beatheaven-parent/listing-promos.php
+	beatheaven-parent/single-album.php
+	beatheaven-parent/single-date.php
+	beatheaven-parent/single-event.php
+	beatheaven-parent/single-product.php
+	beatheaven-parent/single.php
+
+ 2014.01.13 - version 1.1.1
+ * link for album slider
+	beatheaven-parent/js/general.js
+ * compatibility with theme-check plugin
+	beatheaven-parent/comments.php
+	beatheaven-parent/js/general.js
+	beatheaven-parent/screen.css
+	beatheaven-parent/single-album.php
+	beatheaven-parent/single-date.php
+	beatheaven-parent/single-event.php
+	beatheaven-parent/single-product.php
+	beatheaven-parent/single.php
+	beatheaven-parent/style.css
+
+ 2013.11.21 - version 1.1
+ * Remove timthumb and add other resize function
+	beatheaven-parent/header-image.php
+	beatheaven-parent/header-image2.php
+ 
+ 2013.11.7 - version 1.0
+ * First release!

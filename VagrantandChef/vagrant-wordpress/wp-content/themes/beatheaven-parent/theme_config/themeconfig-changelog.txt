@@ -1,0 +1,56 @@
+*** Theme Config Changelog ***
+ 
+ 2014.07.23 - version 1.1.3
+ * fixed bug in player
+	beatheaven-parent/theme_config/extensions/slider/designs/album/template.php
+ * minor changes
+	beatheaven-parent/theme_config/config/theme_config.php
+	beatheaven-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+	beatheaven-parent/theme_config/theme_includes/THEME_SCRIPTS_STYLES.php
+ * repaired problem with reservation form
+	beatheaven-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+ * minor changes
+	beatheaven-parent/theme_config/config/theme_config.php
+	beatheaven-parent/theme_config/extensions/shortcodes/shortcodes/map.php
+	beatheaven-parent/theme_config/extensions/shortcodes/shortcodes/toggle_code.php
+	beatheaven-parent/theme_config/extensions/slider/designs/carousel/template.php
+	beatheaven-parent/theme_config/theme_includes/THEME_SCRIPTS_STYLES.php
+ * minor changes for shortcode location
+	beatheaven-parent/theme_config/extensions/shortcodes/shortcodes/locations.php
+	beatheaven-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+
+  2014.01.15 - version 1.1.2
+ * updated reservation form settings
+	beatheaven-parent/theme_config/extensions/reservationform/configurations/base_cfg.php
+	beatheaven-parent/theme_config/extensions/reservationform/options/reservationform_options.php
+	beatheaven-parent/theme_config/extensions/shortcodes/shortcodes/reservationform.php
+	beatheaven-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+ 
+ 2014.01.13 - version 1.1.1
+ * widget map use location from location tab
+	beatheaven-parent/theme_config/options/event_options.php
+	beatheaven-parent/theme_config/widgets/TFuse_Widget_Map.php
+ * fixed bug sort by event date
+	beatheaven-parent/theme_config/extensions/shortcodes/shortcodes/upcoming_events.php
+ * compatibility with theme-check plugin
+	beatheaven-parent/theme_config/common_includes/CUSTOM_POSTS.php
+	beatheaven-parent/theme_config/extensions/shortcodes/shortcodes/reservationform.php
+	beatheaven-parent/theme_config/theme_includes/AJAX_CALLBACKS.php
+	beatheaven-parent/theme_config/theme_includes/BREADCRUMBS.php
+	beatheaven-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+	beatheaven-parent/theme_config/widgets/TFuse_Widget_Categories.php
+
+ 2013.11.21 - version 1.1
+ * Remove timthumb and add other resize function
+	beatheaven-parent/theme_config/extensions/shortcodes/shortcodes/artists.php
+	beatheaven-parent/theme_config/extensions/shortcodes/shortcodes/events.php
+	beatheaven-parent/theme_config/extensions/shortcodes/shortcodes/events_categories.php
+	beatheaven-parent/theme_config/extensions/shortcodes/shortcodes/locations.php
+	beatheaven-parent/theme_config/extensions/shortcodes/shortcodes/upcoming_events.php
+	beatheaven-parent/theme_config/extensions/slider/designs/album/template.php
+	beatheaven-parent/theme_config/theme_includes/AJAX_CALLBACKS.php
+	beatheaven-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+	beatheaven-parent/theme_config/widgets/TFuse_Widget_Posts_Videos.php
+	
+ 2013.11.7 - version 1.0
+ * First release!

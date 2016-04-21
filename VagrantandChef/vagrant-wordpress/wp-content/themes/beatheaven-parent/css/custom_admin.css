@@ -1,0 +1,198 @@
+
+#toplevel_page_tf_contact_forms_list .wp-menu-image a img{
+    display:none;
+}
+#toplevel_page_tf_contact_forms_list .wp-menu-image{
+    background: url("../images/icons/contact-forms.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px !important;
+    margin-top: 8px !important;
+    margin-left:2px;	}
+#menu-posts-testimonials  div.wp-menu-image{
+    background: url("../images/icons/testimonials.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px ;
+    margin-top: 4px !important;
+	margin-left:2px;
+}
+#toplevel_page_tf_contact_forms_list:hover  div.wp-menu-image,
+#toplevel_page_tf_contact_forms_list.wp-has-current-submenu  div.wp-menu-image{
+    background: url("../images/icons/contact-forms.png") no-repeat scroll 5px 0 transparent!important;
+    height: 16px;
+}
+#menu-posts-testimonials:hover  div.wp-menu-image,
+#menu-posts-testimonials.wp-has-current-submenu  div.wp-menu-image{
+    background: url("../images/icons/testimonials.png") no-repeat scroll 5px 0 transparent!important;
+    height: 16px;
+}
+
+#toplevel_page_tf_slider_list  div.wp-menu-image a img{
+    display: none;
+}
+#toplevel_page_tf_slider_list  div.wp-menu-image{
+    background: url("../images/icons/sliders.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px;
+    margin-top: 5px !important;
+	margin-left:2px;
+}
+#toplevel_page_tf_slider_list:hover  div.wp-menu-image,
+#toplevel_page_tf_slider_list.wp-has-current-submenu  div.wp-menu-image{
+    background: url("../images/icons/sliders.png") no-repeat scroll 5px 0 transparent!important;
+    height: 16px;
+}
+#toplevel_page_tf_reservations_list .wp-menu-image a img{
+    display:none;
+}
+#toplevel_page_tf_reservations_list .wp-menu-image{
+    background: url("../images/icons/reservations_menu_icon.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px !important;
+    margin-top: 8px !important;
+    margin-left:2px;
+}
+#toplevel_page_tf_reservations_list:hover  div.wp-menu-image,
+#toplevel_page_tf_reservations_list.wp-has-current-submenu  div.wp-menu-image{
+    background: url("../images/icons/reservations_menu_icon.png") no-repeat scroll 5px 0 transparent!important;
+    height: 16px;
+}
+
+/*promo*/
+#menu-posts-promo  div.wp-menu-image{
+    background: url("../images/icons/promo.png") no-repeat scroll 5px 0px transparent!important;
+    height: 16px !important;
+    margin-top: 3px !important;
+    margin-left:2px;
+}
+#menu-posts-promo:hover  div.wp-menu-image,
+#menu-posts-promo.wp-has-current-submenu  div.wp-menu-image{
+     background: url("../images/icons/promo.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px;
+}
+
+/*album*/
+#menu-posts-album  div.wp-menu-image{
+    background: url("../images/icons/album.png") no-repeat scroll 5px 0px transparent!important;
+    height: 16px !important;
+    margin-top: 3px !important;
+    margin-left:2px;
+}
+#menu-posts-album:hover  div.wp-menu-image,
+#menu-posts-album.wp-has-current-submenu  div.wp-menu-image{
+     background: url("../images/icons/album.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px;
+}
+
+/*product*/
+#menu-posts-product  div.wp-menu-image{
+    background: url("../images/icons/product.png") no-repeat scroll 5px 0px transparent!important;
+    height: 16px !important;
+    margin-top: 3px !important;
+    margin-left:2px;
+}
+#menu-posts-product:hover  div.wp-menu-image,
+#menu-posts-product.wp-has-current-submenu  div.wp-menu-image{
+     background: url("../images/icons/product.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px;
+}
+
+
+/*date*/
+#menu-posts-date  div.wp-menu-image{
+    background: url("../images/icons/events.png") no-repeat scroll 5px 0px transparent!important;
+    height: 16px !important;
+    margin-top: 3px !important;
+    margin-left:2px;
+}
+#menu-posts-date:hover  div.wp-menu-image,
+#menu-posts-date.wp-has-current-submenu  div.wp-menu-image{
+     background: url("../images/icons/events.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px;
+}
+
+/*events*/
+#menu-posts-event  div.wp-menu-image{
+    background: url("../images/icons/events.png") no-repeat scroll 5px 0px transparent!important;
+    height: 16px !important;
+    margin-top: 3px !important;
+    margin-left:2px;
+}
+#menu-posts-event:hover  div.wp-menu-image,
+#menu-posts-event.wp-has-current-submenu  div.wp-menu-image{
+     background: url("../images/icons/events.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px;
+}
+/*resources*/
+#menu-posts-resource  div.wp-menu-image{
+    background: url("../images/icons/resources.png") no-repeat scroll 5px 0px transparent!important;
+    height: 16px !important;
+    margin-top: 3px !important;
+    margin-left:2px;
+}
+#menu-posts-resource:hover  div.wp-menu-image,
+#menu-posts-resource.wp-has-current-submenu  div.wp-menu-image{
+     background: url("../images/icons/resources.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px;
+}
+/*faq*/
+#menu-posts-faq  div.wp-menu-image a img{
+    display: none;
+}
+#menu-posts-faq  div.wp-menu-image{
+    background: url("../images/icons/faq.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px;
+    margin-top: 3px !important; 
+    margin-left:2px;
+}
+#menu-posts-faq:hover  div.wp-menu-image,
+#menu-posts-faq.wp-has-current-submenu  div.wp-menu-image{
+    background: url("../images/icons/faq.png") no-repeat scroll 5px 0px transparent!important;
+    height: 16px;
+}
+
+/*members */
+#menu-posts-staff  div.wp-menu-image{
+    background: url("../images/icons/members.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px !important;
+    margin-top: 4px !important;
+    margin-left:2px;
+}
+#menu-posts-staff:hover  div.wp-menu-image,
+#menu-posts-staff.wp-has-current-submenu  div.wp-menu-image{
+     background: url("../images/icons/members.png") no-repeat scroll 5px 0 transparent!important;
+    height: 16px;
+}
+
+
+#toplevel_page_tf_contact_forms_list .wp-menu-image  img{
+    display:none;
+}
+
+#toplevel_page_tf_reservations_list .wp-menu-image  img{
+    display:none;
+}
+#toplevel_page_tf_contact_forms_list div.wp-menu-image  img,#toplevel_page_tf_slider_list  div.wp-menu-image img{
+    display: none;
+}
+.folded #adminmenu a.menu-top {
+    height: 0px;
+}
+.folded #adminmenu a.menu-top {
+    padding: 0px !important;
+}
+
+.folded #menu-posts-service div.wp-menu-image {
+margin-top: 6px !important;
+}
+
+.folded #menu-posts-members div.wp-menu-image {
+margin-top: 8px !important;
+}
+
+select.select_hour{
+    width:89px !important;
+}
+
+select.select_minute{
+    width:89px !important;
+}
+
+select.select_time{
+    width:88px !important;
+}

@@ -1,0 +1,144 @@
+.reservationForm .field_text .tfuse_rf_post_datepicker_in, .reservationForm .field_text .tfuse_rf_post_datepicker_out{
+    background-image: url("../../../../../framework/static/images/picker_icon.jpg");
+    background-repeat: no-repeat;
+    background-position: 10px 12px;
+    padding-left: 30px;
+    width: 16px;
+}
+.tfuse_captcha_reload{
+    background-image:url(../images/reload.png) !important;
+    background-repeat: no-repeat !important;
+    height: 18px !important;
+    margin-top: 15px !important;
+    max-width: 16px !important;
+    vertical-align: top;
+    background-color: transparent !important;
+    border:none !important;
+    padding-left: 18px !important;
+}
+/* preview  */
+#TB_ajaxContent label.labelchecked
+{
+position: relative;
+left: 20px;
+top: -18px;
+}
+#TB_ajaxContent .comment-form .inputtext,#TB_ajaxContent .comment-form .textarea,#TB_ajaxContent .comment-form .select_styled,
+#TB_ajaxContent #topm-select,#TB_ajaxContent .tfuse_captcha_input {
+font-size: 13px;
+line-height: 16px;
+height: 36px;
+width: 192px;
+margin: 3px 0;
+padding: 9px 10px;
+background-color: #fff;
+border: 1px solid #dfdfdf;
+-webkit-box-shadow: inset 0px 1px 1px 0px rgba(0, 0, 0, 0.2);
+box-shadow: inset 0px 0px 1px 0px rgba(0, 0, 0, 0.2);
+}
+
+#TB_ajaxContent .comment-form .row .label_title {
+line-height: 1.2em;
+display: block;
+margin-bottom: 2px;
+color: #494c54;
+text-transform: none;
+}
+
+#TB_ajaxContent .comment-form .row {
+padding: 10px 0;
+position: relative;
+margin: 0 40px 0 0;
+}
+
+#TB_ajaxContent .alignleft {
+float: left;
+}
+
+/*	wrapper divs */
+#TB_ajaxContent .custom-checkbox,#TB_ajaxContent .custom-radio { position:relative; font-size:13px}
+
+/* input, label positioning */
+#TB_ajaxContent .custom-checkbox input,#TB_ajaxContent .custom-radio input { position:absolute; left:6px; top:7px; margin:0; border:none; width:1px; height:1px}
+#TB_ajaxContent .custom-checkbox input {left:6px; top:7px}
+#TB_ajaxContent .ie7 .custom-checkbox input {left:2px; top:12px}
+#TB_ajaxContent .custom-checkbox label,
+#TB_ajaxContent .custom-radio label { display:block; position:relative; line-height:1; padding:.4em 0 .3em 30px; margin:0 0 .3em; cursor:pointer; color:#494c54}
+
+#TB_ajaxContent .custom-radio label {padding:.4em 0 .3em 30px}
+
+/* states */
+#TB_ajaxContent .custom-checkbox label { background:url(../images/styled_checkbox.png) no-repeat; }
+#TB_ajaxContent .custom-radio label { background:url(../images/styled_radiobutton.png) no-repeat; }
+#TB_ajaxContent .custom-checkbox label,#TB_ajaxContent .custom-radio label { background-position:-10px -10px; }
+#TB_ajaxContent .custom-checkbox label.hover,#TB_ajaxContent .custom-checkbox label.focus,
+#TB_ajaxContent .custom-radio label.hover,#TB_ajaxContent .custom-radio label.focus { background-position:-10px -110px; }
+#TB_ajaxContent .custom-checkbox label.checked,#TB_ajaxContent .custom-radio label.checked { background-position:-10px -210px; color:#000 }
+#TB_ajaxContent .custom-checkbox label.checked.hover,#TB_ajaxContent .custom-checkbox label.checkedFocus { background-position:-10px -310px; }
+#TB_ajaxContent .custom-checkbox label.focus,#TB_ajaxContent .custom-radio label.focus { outline:0; }
+
+
+#TB_ajaxContent  .btn-primary,#TB_ajaxContent  .panel-primary > .panel-heading,#TB_ajaxContent  .table-primary table tr th {
+background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #e95b56), color-stop(1, #e54d48) );
+background: -moz-linear-gradient( center top, #e95b56 5%, #e54d48 100% );
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e95b56', endColorstr='#e54d48');
+background-color: #e95b56;
+color: #fff !important;
+border-color: #ca4f2a;
+}
+
+#TB_ajaxContent .btn, .panel > .panel-heading,#TB_ajaxContent .styled_table table tr th {
+-moz-box-shadow: inset 0px 0px 1px 0px 0px rgba(255,255,255,0.35);
+-webkit-box-shadow: inset 0px 1px 0px 0px rgba(255,255,255,0.35);
+box-shadow: inset 0px 1px 0px 0px rgba(255,255,255,0.35);
+}
+
+#TB_ajaxContent  .btn-lg {
+padding: 10px 16px;
+font-size: 14px;
+line-height: 1.33;
+border-radius: 6px;
+}
+
+#TB_ajaxContent .btn {
+display: inline-block;
+padding: 7px 12px;
+margin-bottom: 0;
+font-size: 13px;
+font-weight: 600;
+line-height: 1.428571429;
+text-align: center;
+vertical-align: middle;
+cursor: pointer;
+border: 1px solid transparent;
+border-radius: 4px;
+white-space: nowrap;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+text-transform: uppercase;
+}
+
+#TB_ajaxContent .link-reset {
+font-size: 12px;
+position: absolute;
+top: 25px;
+right: 5px;
+text-transform: uppercase;
+font-weight: 600;
+text-decoration: none;
+}
+
+#TB_ajaxContent a.link-reset,#TB_ajaxContent a.link-reset:visited,#TB_ajaxContent a.link-reset:link{color: #17caac;}
+
+#TB_ajaxContent a.link-reset:hover {
+color: #e8544f;
+}
+
+#TB_ajaxContent label{color: #494c54;}
+
+#TB_ajaxContent .comment-form .row.omega {
+margin-right: 0;
+}

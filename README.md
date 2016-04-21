@@ -96,6 +96,7 @@ The purpose of this project is to teach developers some of the basics of devops 
 	* https://www.vagrantup.com/downloads.html
 * Chef server vs Chef solo
 * Chef and Vagrant Example
-
+	
+	
 
 
