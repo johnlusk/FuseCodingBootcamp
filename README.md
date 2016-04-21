@@ -89,7 +89,13 @@ The purpose of this project is to teach developers some of the basics of devops 
 * What is Jenkins
 * How is Jenkins Used
 
-# Chef
+# Chef and Vagrant for provisioning machines
 * What is Chef?
+	* https://downloads.chef.io/chef-dk/
+* What is Vagrant?
+	* https://www.vagrantup.com/downloads.html
 * Chef server vs Chef solo
-* Chef Example
+* Chef and Vagrant Example
+
+
+

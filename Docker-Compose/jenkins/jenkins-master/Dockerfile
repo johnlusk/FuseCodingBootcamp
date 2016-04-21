@@ -8,6 +8,7 @@ RUN chown -R jenkins:jenkins /var/log/jenkins
 RUN apt-get update \
       && apt-get install -y sudo \
       && rm -rf /var/lib/apt/lists/*
+RUN curl -sSL https://get.docker.com/ | sh
 RUN echo "jenkins ALL=NOPASSWD: ALL" >> /etc/sudoers
 USER jenkins
 
