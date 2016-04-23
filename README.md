@@ -20,6 +20,9 @@ The purpose of this project is to teach developers some of the basics of devops 
 # Installing Docker and Virtualbox
   * https://www.virtualbox.org/wiki/Downloads
   * https://docs.docker.com/engine/installation/
+
+  # Installing git
+  * https://git-scm.com/downloads
   
 ## Docker on Windows and OSX
   * https://www.docker.com/products/docker-toolbox
@@ -47,11 +50,19 @@ The purpose of this project is to teach developers some of the basics of devops 
 * Listing images on a docker host
 
 # BREAK
+
 ## Let’s run our first docker container
 * ```docker run -d -p 3000 asakaguchi/docker-nodejs-hello-world```
 * ```docker ps```
 
-# Creating your own docker container
+## Running the cloud9 development environment and persisting data
+
+* docker run -it -d -p 80:80 -v //c/Users/%USERNAME%/workspace/:/workspace/ kdelfour/cloud9-docker
+
+* docker run -it -d -p 80:80 -v /Users/USERNAME/Documents/workspace/:/workspace/ kdelfour/cloud9-docker
+
+
+# Creating your own docker container (lets get creative.  It's up to you what we create)
 * Dokerfile basics
 * From
 * Maintainer
