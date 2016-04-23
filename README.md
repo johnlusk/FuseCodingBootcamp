@@ -33,8 +33,8 @@ The purpose of this project is to teach developers some of the basics of devops 
 
 ## Docker Basics
 * Finding docker images to run
-* Docker Hub
-* Google/Bing/Yahoo
+    * Docker Hub
+    * Google/Bing/Yahoo
 * Pulling docker images
 * Building docker images from a dockerfile
 * Docker tags
