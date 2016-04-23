@@ -92,6 +92,8 @@ The purpose of this project is to teach developers some of the basics of devops 
 * Lambda
 * Login with Amazon
 * How does Fuse use Amazon?
+* Student use of Amazon http://aws.amazon.com/education/awseducate/
+* AWS Free Tier Usage https://aws.amazon.com/free/faqs/
 
 # Standing up your own docker registry on AWS
 * http://codepen.io/tsabat/post/s3-backed-docker-private-registry-on-aws
